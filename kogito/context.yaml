@@ -1,6 +1,6 @@
-timestamp: 2020-04-12_06-04-03
+timestamp: 2020-04-12_07-12-09
 issues:
   latestRelease: 432
-  latestCommit: 234}
+  latestCommit: 234
 quarkus:
   version: 999-SNAPSHOT
