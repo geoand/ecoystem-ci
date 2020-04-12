@@ -1,0 +1,6 @@
+timestamp: 2020-04-12_07-12-05
+issues:
+  latestRelease: 888
+  latestCommit: 999
+quarkus:
+  version: 999-SNAPSHOT
