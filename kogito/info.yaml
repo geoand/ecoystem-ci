@@ -1,4 +1,5 @@
 url: https://github.com/kiegroup/kogito-runtimes
 issues:
+  repo: geoand/quarkus
   latestCommit: 234
   latestRelease: 432

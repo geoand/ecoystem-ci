@@ -1,4 +1,5 @@
 url: https://github.com/geoand/quarkus-hazelcast-client
 issues:
+  repo: geoand/quarkus	
   latestCommit: 3
   latestRelease: 9999999

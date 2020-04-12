@@ -1,4 +1,5 @@
 url: https://github.com/geoand/quarkus-qpid-jms
 issues:
+  repo: geoand/quarkus
   latestCommit: 2
   latestRelease: 99999
