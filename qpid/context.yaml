@@ -1,6 +1,7 @@
-timestamp: 2020-04-12_08-02-53
+timestamp: 2020-04-12_09-00-22
 issues:
   latestRelease: 99999
   latestCommit: 2
+  repo: geoand/quarkus
 quarkus:
   version: 999-SNAPSHOT
